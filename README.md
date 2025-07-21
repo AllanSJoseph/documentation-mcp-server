@@ -15,7 +15,7 @@ Refer the video here [Learn MCP Servers with Python (EASY)](https://youtu.be/Ek8
     - PostgreSQL Docs [Visit](https://www.postgresql.org/docs/)
     - Langchain Docs [Visit](https://python.langchain.com/docs)
     - llama-index [Visit](https://docs.llamaindex.ai/en/stable)
-    - OpenAI docs [Visit](platform.openai.com/docs)
+    - OpenAI docs [Visit](https://platform.openai.com/docs)
 - Uses Beautiful Soup to parse the results
 
 
@@ -52,7 +52,7 @@ Copy the api key from your Serper account and paste it in the `.env` file as sho
 SERPER_API_KEY=your_serper_api_key_here
 ```
 
-1. Open an MCP Client (here I am using Claude Deskstop).
+1. Open an MCP Client (here I am using Claude Desktop).
 2. Go To Claude Settings ```Ctrl + ,```.
 3. Go to the Developer tab.
 4. Click on ```Edit Config``` under Local MCP Servers.
